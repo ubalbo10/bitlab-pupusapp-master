@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">PupusApp</string>
+  <string name="pupusa_header_1">Maiz</string>
+  <string name="pupusa_header">Arroz</string>
+  <string name="pupusa_queso">Queso: %1$s</string>
+  <string name="frijol_con_queso">Frijol con queso: %1$s</string>
+  <string name="revueltas">Revueltas: %1$s</string>
+  <string name="enviar_orden">Enviar Orden</string>
+  <string name="title_activity_fragment_example">FragmentExampleActivity</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="pupusa_line_item_description">%1$dx %2$s</string>
+  <string name="pupusa_line_item_price">$%1$f</string>
+</resources>
